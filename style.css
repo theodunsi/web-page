@@ -117,3 +117,33 @@ a {
     width: auto;
 }
 
+
+/* THIRD SECTION */
+.third-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 120px 0px 120px 0px;
+}
+
+.quote-tag {
+    width: 780px;
+    text-align: right;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    width: 840px;
+}
+
+.tag-text {
+    margin: 0px;
+    font-size: 24px;
+    font-weight: 900;
+    color: #1f2937;
+}
