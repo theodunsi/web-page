@@ -3,6 +3,8 @@ body {
     margin: 0px;
 }
 
+/* HERO SECTION  */
+
 img {
     width: 600px;
     height: auto;
@@ -70,3 +72,48 @@ a {
     color: #F9FAF8;
     margin: 0px;
 }
+
+
+/* SECOND SECTION */
+
+.img-container {
+    max-width: 200px;
+    max-height: 200px;
+    padding: auto;
+    overflow: hidden;
+    border-radius: 24px;
+}
+
+.second-section {
+    padding: 60px 0px 120px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.features {
+    display: flex;
+    gap: 40px;
+}
+
+.h2 {
+    margin: 0px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.p2 {
+    color: #1f2937;
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+}
+
+.img {
+    height: 200px;
+    width: auto;
+}
+
