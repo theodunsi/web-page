@@ -147,3 +147,45 @@ a {
     font-weight: 900;
     color: #1f2937;
 }
+
+/* FOURTH SECTION */
+.fourth-section {
+    padding: 120px 280px 120px 280px;
+}
+
+.section-container{
+    background-color: #3882F6;
+    padding: 60px 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    border-radius: 12px;
+    align-items: center;
+}
+
+.h3 {
+    font-size: 28px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin: 0px 0px 8px 0px;
+}
+
+.p3 {
+    font-size: 20px;
+    color: #e5e7eb;
+    opacity: 72%;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.second-button {
+    flex-grow: 0;
+    padding: 6px 40px;
+    border: 2px solid #E5E7EB;
+    color: #e5e7eb;
+    border-radius: 8px;
+    background-color: transparent;
+    font-size: 22px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
