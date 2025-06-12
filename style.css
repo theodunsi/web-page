@@ -155,7 +155,7 @@ a {
 
 .section-container{
     background-color: #3882F6;
-    padding: 60px 160px;
+    padding: 60px 150px;
     display: flex;
     justify-content: space-between;
     align-items: start;
@@ -188,4 +188,19 @@ a {
     font-size: 22px;
     color: #F9FAF8;
     font-weight: 900;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color:#1f2937;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-text {
+    color:#F9FAF8;
+    font-size: 20px;
+    font-weight: 400;
 }
