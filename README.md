@@ -1,6 +1,6 @@
 # web-page
 
-hey guyssss...
+hey guys...
 
-header image by Philip Oroni on Unsplash
+featured images by Philip Oroni on Unsplash
       
